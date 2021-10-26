@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://marsellus35.github.io/gh-pages/sitemap.xml

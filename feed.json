@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "HEG",
+    "description": "",
+    "home_page_url": "https://marsellus35.github.io/gh-pages",
+    "feed_url": "https://marsellus35.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "emile"
+    },
+    "items": [
+        {
+            "id": "https://marsellus35.github.io/gh-pages/notre-histoire.html",
+            "url": "https://marsellus35.github.io/gh-pages/notre-histoire.html",
+            "title": "Notre histoire",
+            "summary": "<h2><span style=\"color: #ba372a;\">A l'origine</span></h2>\n<p>Contrairement à une opinion répandue, le Lorem Ipsum n'est pas simplement du texte aléatoire. Il trouve ses racines dans une oeuvre de la littérature latine classique datant de 45 av. J.-C., le rendant vieux de 2000 ans. Un professeur du Hampden-Sydney College, en Virginie, s'est intéressé à un des mots latins les plus obscurs, consectetur, extrait d'un passage du Lorem Ipsum, et en étudiant tous les usages de ce mot dans la littérature classique, découvrit la source incontestable du Lorem Ipsum. Il provient en fait des sections 1.10.32 et 1.10.33 du \"De Finibus Bonorum et Malorum\" (Des Suprêmes Biens et des Suprêmes Maux) de Cicéron. Cet ouvrage, très populaire pendant la Renaissance, est un traité sur la théorie de l'éthique. Les premières lignes du Lorem Ipsum, \"Lorem ipsum dolor sit amet...\", proviennent de la section 1.10.32.</p>\n<h5><span style=\"color: #ba372a;\">Emile Tapponnier</span></h5>\n<p class=\"msg--highlight msg \">L'extrait standard de Lorem Ipsum utilisé depuis le XVIè siècle est reproduit ci-dessous pour les curieux. Les sections 1.10.32 et 1.10.33 du \"De Finibus Bonorum et Malorum\" de Cicéron sont aussi reproduites dans leur version originale, accompagnée de la traduction anglaise de H. Rackham (1914).</p>\n",
+            "content_html": "<h2><span style=\"color: #ba372a;\">A l'origine</span></h2>\n<p>Contrairement à une opinion répandue, le Lorem Ipsum n'est pas simplement du texte aléatoire. Il trouve ses racines dans une oeuvre de la littérature latine classique datant de 45 av. J.-C., le rendant vieux de 2000 ans. Un professeur du Hampden-Sydney College, en Virginie, s'est intéressé à un des mots latins les plus obscurs, consectetur, extrait d'un passage du Lorem Ipsum, et en étudiant tous les usages de ce mot dans la littérature classique, découvrit la source incontestable du Lorem Ipsum. Il provient en fait des sections 1.10.32 et 1.10.33 du \"De Finibus Bonorum et Malorum\" (Des Suprêmes Biens et des Suprêmes Maux) de Cicéron. Cet ouvrage, très populaire pendant la Renaissance, est un traité sur la théorie de l'éthique. Les premières lignes du Lorem Ipsum, \"Lorem ipsum dolor sit amet...\", proviennent de la section 1.10.32.</p>\n<h5><span style=\"color: #ba372a;\">Emile Tapponnier</span></h5>\n<p class=\"msg--highlight msg \">L'extrait standard de Lorem Ipsum utilisé depuis le XVIè siècle est reproduit ci-dessous pour les curieux. Les sections 1.10.32 et 1.10.33 du \"De Finibus Bonorum et Malorum\" de Cicéron sont aussi reproduites dans leur version originale, accompagnée de la traduction anglaise de H. Rackham (1914).</p>\n\n<p class=\"msg--highlight\">Nos services</p>",
+            "image": "https://marsellus35.github.io/gh-pages/media/posts/2/GOPR0184.JPG",
+            "author": {
+                "name": "emile"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-26T12:11:43+02:00",
+            "date_modified": "2021-10-26T12:12:50+02:00"
+        },
+        {
+            "id": "https://marsellus35.github.io/gh-pages/ma-nouvelle-image.html",
+            "url": "https://marsellus35.github.io/gh-pages/ma-nouvelle-image.html",
+            "title": "Ma nouvelle image",
+            "image": "https://marsellus35.github.io/gh-pages/media/posts/1/swatch2.jpg",
+            "author": {
+                "name": "emile"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-26T11:17:26+02:00",
+            "date_modified": "2021-10-26T11:17:26+02:00"
+        }
+    ]
+}
